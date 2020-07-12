@@ -9,18 +9,17 @@ mysql5.7+
 ## 环境搭建
 1. 下载源码
     ```
-    git clone git@gitee.com:qDonl/Online-Imooc.git
+    git clone git@gitee.com:qDonl/onlineShop.git
     ```
 
-2. 文件修改
+2. 进入项目
     ```
-    cd Online-Imooc
-    mkdir media  # gitignore忽略
+    cd onlineShop
     ```
    
 3. 安装环境
     ```
-    # path/to/Online-Imooc
+    # path/to/onlineShop
     pip install pipenv
     pipenv install
     ```
